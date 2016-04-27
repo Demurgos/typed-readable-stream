@@ -1,0 +1,12 @@
+{
+  "name": "readable-stream",
+  "main": "readable.d.ts",
+  "homepage": "https://github.com/nodejs/readable-stream",
+  "version": "2.1.0",
+  "devDependencies": {
+    "blue-tape": "registry:npm/blue-tape#0.2.0+20160418015423"
+  },
+  "ambientDevDependencies": {
+    "node": "registry:dt/node#4.0.0+20160423143914"
+  }
+}
